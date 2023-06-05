@@ -1,0 +1,128 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: New Sprite Atlas
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 0
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 0
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: f1afe9e6235a1144fb88d92d84b22d18, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 228651979, guid: f1afe9e6235a1144fb88d92d84b22d18, type: 3}
+  - {fileID: 1328880183, guid: f1afe9e6235a1144fb88d92d84b22d18, type: 3}
+  - {fileID: -40708397, guid: f1afe9e6235a1144fb88d92d84b22d18, type: 3}
+  - {fileID: 822979412, guid: f1afe9e6235a1144fb88d92d84b22d18, type: 3}
+  - {fileID: 1734978378, guid: f1afe9e6235a1144fb88d92d84b22d18, type: 3}
+  - {fileID: 1282154370, guid: f1afe9e6235a1144fb88d92d84b22d18, type: 3}
+  - {fileID: 715362493, guid: f1afe9e6235a1144fb88d92d84b22d18, type: 3}
+  - {fileID: -1107361649, guid: f1afe9e6235a1144fb88d92d84b22d18, type: 3}
+  - {fileID: 55395216, guid: f1afe9e6235a1144fb88d92d84b22d18, type: 3}
+  - {fileID: -361768941, guid: f1afe9e6235a1144fb88d92d84b22d18, type: 3}
+  - {fileID: 353146788, guid: f1afe9e6235a1144fb88d92d84b22d18, type: 3}
+  - {fileID: -961096743, guid: f1afe9e6235a1144fb88d92d84b22d18, type: 3}
+  - {fileID: -679508426, guid: f1afe9e6235a1144fb88d92d84b22d18, type: 3}
+  - {fileID: 518069454, guid: f1afe9e6235a1144fb88d92d84b22d18, type: 3}
+  - {fileID: 375485284, guid: f1afe9e6235a1144fb88d92d84b22d18, type: 3}
+  - {fileID: 2037158386, guid: f1afe9e6235a1144fb88d92d84b22d18, type: 3}
+  - {fileID: 1865678855, guid: f1afe9e6235a1144fb88d92d84b22d18, type: 3}
+  - {fileID: -567791535, guid: f1afe9e6235a1144fb88d92d84b22d18, type: 3}
+  - {fileID: 840478721, guid: f1afe9e6235a1144fb88d92d84b22d18, type: 3}
+  - {fileID: 1362158977, guid: f1afe9e6235a1144fb88d92d84b22d18, type: 3}
+  - {fileID: 183256801, guid: f1afe9e6235a1144fb88d92d84b22d18, type: 3}
+  - {fileID: -200807071, guid: f1afe9e6235a1144fb88d92d84b22d18, type: 3}
+  - {fileID: 1083815734, guid: f1afe9e6235a1144fb88d92d84b22d18, type: 3}
+  - {fileID: 472531948, guid: f1afe9e6235a1144fb88d92d84b22d18, type: 3}
+  - {fileID: -1452206055, guid: f1afe9e6235a1144fb88d92d84b22d18, type: 3}
+  - {fileID: -1263044379, guid: f1afe9e6235a1144fb88d92d84b22d18, type: 3}
+  - {fileID: -1234066325, guid: f1afe9e6235a1144fb88d92d84b22d18, type: 3}
+  - {fileID: -216950080, guid: f1afe9e6235a1144fb88d92d84b22d18, type: 3}
+  - {fileID: -2138869712, guid: f1afe9e6235a1144fb88d92d84b22d18, type: 3}
+  - {fileID: 208905254, guid: f1afe9e6235a1144fb88d92d84b22d18, type: 3}
+  - {fileID: -2110748470, guid: f1afe9e6235a1144fb88d92d84b22d18, type: 3}
+  - {fileID: -950318212, guid: f1afe9e6235a1144fb88d92d84b22d18, type: 3}
+  - {fileID: -1923581288, guid: f1afe9e6235a1144fb88d92d84b22d18, type: 3}
+  - {fileID: -512096176, guid: f1afe9e6235a1144fb88d92d84b22d18, type: 3}
+  - {fileID: -1848205470, guid: f1afe9e6235a1144fb88d92d84b22d18, type: 3}
+  - {fileID: 174848832, guid: f1afe9e6235a1144fb88d92d84b22d18, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - Cyber Prison tile set v1_34
+  - Cyber Prison tile set v1_35
+  - Cyber Prison tile set v1_29
+  - Cyber Prison tile set v1_32
+  - Cyber Prison tile set v1_28
+  - Cyber Prison tile set v1_33
+  - Cyber Prison tile set v1_30
+  - Cyber Prison tile set v1_31
+  - Cyber Prison tile set v1_21
+  - Cyber Prison tile set v1_20
+  - Cyber Prison tile set v1_23
+  - Cyber Prison tile set v1_22
+  - Cyber Prison tile set v1_25
+  - Cyber Prison tile set v1_24
+  - Cyber Prison tile set v1_27
+  - Cyber Prison tile set v1_26
+  - Cyber Prison tile set v1_1
+  - Cyber Prison tile set v1_0
+  - Cyber Prison tile set v1_3
+  - Cyber Prison tile set v1_2
+  - Cyber Prison tile set v1_5
+  - Cyber Prison tile set v1_4
+  - Cyber Prison tile set v1_7
+  - Cyber Prison tile set v1_6
+  - Cyber Prison tile set v1_9
+  - Cyber Prison tile set v1_8
+  - Cyber Prison tile set v1_10
+  - Cyber Prison tile set v1_11
+  - Cyber Prison tile set v1_12
+  - Cyber Prison tile set v1_13
+  - Cyber Prison tile set v1_14
+  - Cyber Prison tile set v1_15
+  - Cyber Prison tile set v1_16
+  - Cyber Prison tile set v1_17
+  - Cyber Prison tile set v1_18
+  - Cyber Prison tile set v1_19
+  m_RenderDataMap: {}
+  m_Tag: New Sprite Atlas
+  m_IsVariant: 0
